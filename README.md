@@ -1,7 +1,7 @@
 # Silent installer for Wireshark and NPCAP  
 
 ### Supported OS:
-Windows 10
+Windows 10 x64
 
 <br>
 
